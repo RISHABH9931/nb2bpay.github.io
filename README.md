@@ -1,6 +1,4 @@
-# nb2bpay.github.io
-Welcome to NB2B/Pay
-<!DOCTYPE html>
+
 <!-- saved from url=(0030)https://www.moneypay.com/ -->
 <html oncontextmenu="return false" xmlns="http://www.w3.org/1999/xhtml" class="fontawesome-i2svg-active fontawesome-i2svg-complete"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <!--Start of Tawk.to Script-->
