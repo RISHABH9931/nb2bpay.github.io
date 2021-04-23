@@ -1,0 +1,36 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+.modal-body {
+    position: relative;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    padding: 10px;
+}
+
+
+.mainpopup{ position:absolute;
+z-index:100000;}
+
+.mainpopup .modal-dialog {
+    margin: -80px 20% !important;
+    width: 100%;
+}
+.mainpopup .modal-header .close {
+	margin-top: 79px;
+	position: absolute;
+	right: -288px;
+	z-index: 1000;
+	font-size: 35px;
+}
+
+	
+.mainpopup .modal-content {
+  background-clip: padding-box;
+  background-color:transparent;
+  border: 0px solid rgba(0, 0, 0, 0.2);
+  border-radius: 0px;
+  box-shadow: none;
+  outline: 0 none;
+  position: relative;
+}
