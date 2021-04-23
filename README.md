@@ -1,5 +1,4 @@
 
-<!-- saved from url=(0030)https://www.moneypay.com/ -->
 <html oncontextmenu="return false" xmlns="http://www.w3.org/1999/xhtml" class="fontawesome-i2svg-active fontawesome-i2svg-complete"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <!--Start of Tawk.to Script-->
 <script async="" src="./app.js.download" charset="UTF-8" crossorigin="*"></script><script async="" src="./default" charset="UTF-8" crossorigin="*"></script><script type="text/javascript">
